@@ -1,4 +1,5 @@
-# FitGo — Documentação Técnica e de Testes
+# Checkpoints 5 & 6 - Mobile Development e IoT:
+## FitGo — Documentação Técnica e de Testes
 
 **Checkpoints 5 & 6** — Registro das decisões de arquitetura, bibliotecas e estratégia de testes do projeto FitGo.
 
